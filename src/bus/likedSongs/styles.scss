@@ -1,0 +1,17 @@
+.player-wrapper {
+  display: block;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-size: 0;
+  padding: 8px;
+  background: #fff;
+  audio {
+    width: 100%;
+  }
+}
+
+.back {
+  padding: 15px 0;
+}

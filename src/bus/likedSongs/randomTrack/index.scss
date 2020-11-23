@@ -1,0 +1,12 @@
+.random-track {
+  margin-bottom: 24px;
+  &__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 24px;
+  }
+  h1 {
+    margin-bottom: 0;
+  }
+}
